@@ -5,4 +5,4 @@ An implementation of BACnet MS/TP (Manager/Subordinate Token Passing Network) fo
 A reference implmentation including hooks that are required of low-level tty drivers.
 
 ## License
-MIT Licnese
+MIT License
